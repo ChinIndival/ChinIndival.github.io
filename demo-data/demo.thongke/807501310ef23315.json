@@ -1,0 +1,1 @@
+{"s":403,"b":{"error":{"group":"VALIDATION","code":"sai_vai_tro","message_vi":"Vai trò hiện tại không được phép thực hiện thao tác này","message_zh":"当前角色无权执行该操作","correlation_id":"cabd20c2-faee-4f2b-af4c-59d5ecc1f022","details":{"reason":"sai_vai_tro","required_roles":["R-ADMIN","R-CHATLUONG","R-KEHOACH","R-KHO","R-LAPBIEU","R-QUANLY","R-SYSTEM"],"actor_roles":["R-THONGKE"]}}}}

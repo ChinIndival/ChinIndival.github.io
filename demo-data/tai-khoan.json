@@ -1,0 +1,128 @@
+[
+ {
+  "ma": "demo.admin",
+  "ten_vi": "Quản trị hệ thống",
+  "vai": [
+   "R-ADMIN"
+  ]
+ },
+ {
+  "ma": "demo.quanly",
+  "ten_vi": "Quản lý nhà máy",
+  "vai": [
+   "R-QUANLY"
+  ]
+ },
+ {
+  "ma": "demo.kho",
+  "ten_vi": "Thủ kho",
+  "vai": [
+   "R-KHO"
+  ]
+ },
+ {
+  "ma": "demo.vanhanh",
+  "ten_vi": "Công nhân vận hành lò",
+  "vai": [
+   "R-VANHANH"
+  ]
+ },
+ {
+  "ma": "demo.ketoan",
+  "ten_vi": "Kế toán",
+  "vai": [
+   "R-KETOAN"
+  ]
+ },
+ {
+  "ma": "demo.chatluong",
+  "ten_vi": "Bộ phận chất lượng",
+  "vai": [
+   "R-CHATLUONG"
+  ]
+ },
+ {
+  "ma": "demo.kehoach",
+  "ten_vi": "Nhân viên kế hoạch sản xuất",
+  "vai": [
+   "R-KEHOACH"
+  ]
+ },
+ {
+  "ma": "demo.hoanghiem",
+  "ten_vi": "Nhân viên hoá nghiệm",
+  "vai": [
+   "R-HOANGHIEM"
+  ]
+ },
+ {
+  "ma": "demo.thongke",
+  "ten_vi": "Nhân viên thống kê sản xuất",
+  "vai": [
+   "R-THONGKE"
+  ]
+ },
+ {
+  "ma": "demo.cnk",
+  "ten_vi": "Chủ nhiệm kho",
+  "vai": [
+   "R-CNK"
+  ]
+ },
+ {
+  "ma": "demo.quandoc",
+  "ten_vi": "Quản đốc phân xưởng",
+  "vai": [
+   "R-QUANDOC"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.lapbieu",
+  "ten_vi": "Người lập biểu",
+  "vai": [
+   "R-LAPBIEU"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.ptbp",
+  "ten_vi": "Phụ trách bộ phận",
+  "vai": [
+   "R-PTBP"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.linh",
+  "ten_vi": "Người lĩnh vật tư",
+  "vai": [
+   "R-LINH"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.laymau",
+  "ten_vi": "Người lấy mẫu",
+  "vai": [
+   "R-LAYMAU"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.kd",
+  "ten_vi": "Nhân viên kinh doanh",
+  "vai": [
+   "R-KD"
+  ],
+  "phu": true
+ },
+ {
+  "ma": "demo.thongke2",
+  "ten_vi": "Nhân viên thống kê sản xuất (người chốt sổ)",
+  "vai": [
+   "R-THONGKE"
+  ],
+  "phu": true
+ }
+]

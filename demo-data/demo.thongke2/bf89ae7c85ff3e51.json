@@ -1,0 +1,1 @@
+{"s":404,"b":{"error":{"group":"VALIDATION","code":"khong_tim_thay_yeu_cau_phe_duyet","message_vi":"Đối tượng này chưa có yêu cầu phê duyệt nào","message_zh":"该对象尚无审批申请","correlation_id":"010c186d-c391-4a6d-9b5a-0b3bafe47bda","details":{"reason":"khong_tim_thay_yeu_cau_phe_duyet","object_type":"warehouse_document","object_id":"96835e49-6000-4006-8941-0b9cbf6f30db"}}}}

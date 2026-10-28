@@ -1,0 +1,1 @@
+{"s":403,"b":{"error":{"group":"AUTH_SESSION","code":"AUTH_SESSION_GENERIC","message_vi":"Phiên làm việc hết hạn hoặc không đủ quyền","message_zh":"会话已过期或权限不足","correlation_id":"cdef0f9b-46d7-4478-a6f7-f36fe321d037","details":{"function_group":"chung_tu_kho","action_level":"xem"}}}}

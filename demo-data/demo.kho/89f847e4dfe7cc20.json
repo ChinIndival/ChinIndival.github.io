@@ -1,0 +1,1 @@
+{"s":200,"b":{"id":"1d9b8c81-7097-400c-9a82-d1bf0082058b","employee_code":"demo.kho","name_vi":"Thủ kho","name_zh":"Thủ kho","roles":["R-KHO"],"must_change_password":false,"status":"active","session":{"device_type":"pc_van_phong","issued_at":"2026-10-28T12:22:29.617162+07:00","idle_expires_at":"2026-10-28T05:52:29.780850+00:00","session_idle_timeout_minutes":30,"pin_length":6}}}

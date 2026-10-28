@@ -1,0 +1,1 @@
+{"s":403,"b":{"error":{"group":"AUTH_SESSION","code":"AUTH_SESSION_GENERIC","message_vi":"Phiên làm việc hết hạn hoặc không đủ quyền","message_zh":"会话已过期或权限不足","correlation_id":"59fffbda-4b95-4ce0-8933-ea13d66f4e25","details":{"required_roles":["R-QUANLY","R-KEHOACH","R-CHATLUONG","R-KETOAN","R-THONGKE","R-SYSTEM","R-ADMIN"]}}}}

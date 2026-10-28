@@ -1,0 +1,1 @@
+{"s":403,"b":{"error":{"group":"VALIDATION","code":"sai_vai_tro","message_vi":"Vai trò hiện tại không được phép thực hiện thao tác này","message_zh":"当前角色无权执行该操作","correlation_id":"15c1cbb7-3976-407a-88e1-dbd4c3e31b76","details":{"function_group":"chung_tu_kho","action_level":"xem"}}}}
